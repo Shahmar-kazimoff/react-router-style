@@ -1,0 +1,12 @@
+.services {
+    background-image: url(https://papers.co/wallpaper/papers.co-vt20-abstract-line-digital-white-bw-pattern-35-3840x2160-4k-wallpaper.jpg);
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 1.2;
+}

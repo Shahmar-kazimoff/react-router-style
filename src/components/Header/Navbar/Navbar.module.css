@@ -1,0 +1,12 @@
+.navbarStyle {
+    display: flex;
+    font-size: 15px;
+    font-weight: 500;
+    gap: 40px;
+    color: #747576
+}
+
+.active {
+    text-decoration: underline;
+    border: 2px solid red !important;
+}

@@ -1,0 +1,12 @@
+.about {
+    background-image: url(https://images.unsplash.com/reserve/D9xlw7UxTBqQw5sLf8cJ_reef%20insp-72.jpg?ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8YmxhY2slMjBhbmQlMjB3aGl0ZSUyMG9jZWFufGVufDB8fHx8MTcwOTkzMjM3OXww&ixlib=rb-4.0.3);
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 1.2;
+}

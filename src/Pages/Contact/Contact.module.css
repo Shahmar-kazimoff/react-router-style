@@ -1,0 +1,12 @@
+.contact {
+    background-image: url(https://wallpapers.com/images/hd/untidy-folds-paper-background-bhfzwpfkywxjsubx.jpg);
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 1.2;
+}
